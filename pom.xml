@@ -4,7 +4,7 @@
     
   <groupId>com.iar</groupId>
   <artifactId>iar_surface</artifactId>
-  <version>1.5.3</version>
+  <version>1.5.4</version>
   <name>iar-surface</name>
   <url>http://maven.apache.org</url>
 </project>
